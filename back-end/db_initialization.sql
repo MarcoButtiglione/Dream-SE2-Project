@@ -1,0 +1,2 @@
+INSERT INTO `db_dream`.`location` (`location_id`, `district`, `location`, `mandal`) VALUES ('1', 'Hyderabad', 'Hyderabad', 'Hyderabad');
+INSERT INTO `db_dream`.`agronomist` (`agronomist_id`, `aadhaar`, `email`, `first_name`, `last_name`, `password`, `telephone`, `location_fk`) VALUES ('1', 'agronomo', 'agro@gmail.com', 'krdeaa', 'rgdeeq', '$2a$10$JeCy4pPXyDfNwxK2Nc6hkeNS7.ZA/eTj7PD3eCsYceqKeMA6hzUfu', '3333', '1');
